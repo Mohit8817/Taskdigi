@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Taskdigi/static/css/main.f855e6bc.css",
-    "main.js": "/Taskdigi/static/js/main.06782eea.js",
+    "main.js": "/Taskdigi/static/js/main.0c4d8194.js",
     "static/js/453.15cb5016.chunk.js": "/Taskdigi/static/js/453.15cb5016.chunk.js",
     "index.html": "/Taskdigi/index.html",
     "main.f855e6bc.css.map": "/Taskdigi/static/css/main.f855e6bc.css.map",
-    "main.06782eea.js.map": "/Taskdigi/static/js/main.06782eea.js.map",
+    "main.0c4d8194.js.map": "/Taskdigi/static/js/main.0c4d8194.js.map",
     "453.15cb5016.chunk.js.map": "/Taskdigi/static/js/453.15cb5016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.06782eea.js"
+    "static/js/main.0c4d8194.js"
   ]
 }
