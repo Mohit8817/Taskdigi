@@ -5,7 +5,7 @@ import Navbar from './Components/Navbar';
 function App() {
   return (
    <>
-<div  basename='Taskdigi'>
+<div  >
 
        <Navbar/>
        <Home/>
